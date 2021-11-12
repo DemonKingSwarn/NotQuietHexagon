@@ -8,5 +8,5 @@ NotQuietHexagon is the Super Hexagon replica made for my school assignment in 10
 
 <hr>
 
-<b>Link:-</b><a href="https://demonkingswarn.is-a.dev/notquiethexagon">Play Now</a>
+<b>Link:-</b><a href="https://demonkingswarn.is-a.dev/NotQuietHexagon/">Play Now</a>
  
